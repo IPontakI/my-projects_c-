@@ -1,0 +1,9 @@
+﻿  Source.cpp
+  vector3D.cpp
+D:\!Валик\Универ\ооп\!Proba\Project1\Project1\vector3D.cpp(74,9): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+D:\!Валик\Универ\ооп\!Proba\Project1\Project1\vector3D.cpp(79,9): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+D:\!Валик\Универ\ооп\!Proba\Project1\Project1\vector3D.cpp(84,9): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+D:\!Валик\Универ\ооп\!Proba\Project1\Project1\vector3D.cpp(141,49): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\!Валик\Универ\ооп\!Proba\Project1\Project1\vector3D.cpp(164,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  Project1.vcxproj -> D:\!Валик\Универ\ооп\!Proba\Project1\x64\Debug\Project1.exe

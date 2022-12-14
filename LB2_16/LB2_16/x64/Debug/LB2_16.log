@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Валентин\Documents\GitHub\my-projects_c-\LB2_16\LB2_16\Source.cpp(11,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Валентин\Documents\GitHub\my-projects_c-\LB2_16\LB2_16\Source.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Валентин\Documents\GitHub\my-projects_c-\LB2_16\LB2_16\Source.cpp(28,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Валентин\Documents\GitHub\my-projects_c-\LB2_16\LB2_16\Source.cpp(34,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Валентин\Documents\GitHub\my-projects_c-\LB2_16\LB2_16\Source.cpp(38,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  LB2_16.vcxproj -> C:\Users\Валентин\Documents\GitHub\my-projects_c-\LB2_16\x64\Debug\LB2_16.exe

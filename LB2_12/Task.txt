@@ -1,0 +1,2 @@
+Given a square matrix N*N. Rows in which the maximum and minimum elements are on 
+different sides of the main diagonal should be written in reverse order.

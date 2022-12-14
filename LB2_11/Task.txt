@@ -1,0 +1,2 @@
+The array A(n) of foreign currency contributions to the bank is given. 
+Convert them to hryvnias by multiplying each element of the array by a certain factor, find their sum and the largest contribution.

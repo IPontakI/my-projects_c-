@@ -1,0 +1,5 @@
+Create a vector3D class specified by a triple of coordinates. Necessarily
+must be implemented: addition and subtraction of vectors, scalar product
+vectors, multiplication by a scalar, comparison of vectors, calculation of length
+vector, comparing the length of vectors.Implement at least 3
+constructors
